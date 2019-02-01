@@ -1,0 +1,7 @@
+/* MIXING STYLES */
+@import url('https://fonts.googleapis.com/css?family=Kdam+Thmor');
+
+body{font-family:'kdam Thmor',cursive;color:#666;width:100%;background:#fff}
+h2:focus,h3:hover{outline:none!important;text-decoration:none}
+:focus,:hover{text-decoration:none;}
+
